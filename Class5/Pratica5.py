@@ -1,3 +1,10 @@
+# Conteúdo referente a Aula 5 de Lógica de Programação e Algoritmos
+# Autor: Felipe Alafy Rodrigues Silva
+# Criado em: 14/07/2024
+# Última Modificação em: 14/07/2024
+# Acesse o side Notes no meu Notion:
+# https://www.notion.so/PA-L-gica-de-Programa-o-e-Algoritmos-b81c5cb3551e4a62b9b2c5b8b58fc2ac?pvs=4
+
 # Exercício 2
 # - Suponha que você é um colecionar de jogos de videogame. Escreva um algoritmo que
 # permita cadastrar esses jogos informando o nome e a qual videogame ele pertence
